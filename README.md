@@ -10,3 +10,5 @@ The "Api EcoPlanet" serves as a local API for managing data related to eco-frien
 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP - The primary language used for API development.
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL - Database management system used for storing project data.
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Postman - API development and testing tool for building and testing APIs quickly.
+
