@@ -1,6 +1,6 @@
 # API EcoPlanet
 
-This project is a local API.
+Local API.
 
 ## Description
 
