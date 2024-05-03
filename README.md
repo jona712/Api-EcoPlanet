@@ -1,10 +1,10 @@
 # API EcoPlanet
 
-This project is a local API named "Api EcoPlanet" developed in PHP. It connects to a MySQL database and includes models and controllers.
+This project is a local API.
 
 ## Description
 
-The "Api EcoPlanet" serves as a local API for managing data related to eco-friendly initiatives and projects. It follows the MVC (Model-View-Controller) architectural pattern and includes the following components: Models represent the data structures used in the application. They interact with the database to perform CRUD operations and manage data retrieval and manipulation. Controllers handle incoming requests, process data, and interact with the models to perform operations. They contain the application logic and control the flow of data. The API provides endpoints to interact with the MySQL database, allowing users to perform CRUD (Create, Read, Update, Delete) operations on eco-friendly projects.
+The "Api EcoPlanet" serves as a local API developed in PHP for managing data related to eco-friendly initiatives and projects. It follows the MVC (Model-View-Controller) architectural pattern and includes the following components: Models represent the data structures used in the application. They interact with the database to perform CRUD operations and manage data retrieval and manipulation. Controllers handle incoming requests, process data, and interact with the models to perform operations. They contain the application logic and control the flow of data. The API provides endpoints to interact with the MySQL database, allowing users to perform CRUD (Create, Read, Update, Delete) operations on eco-friendly projects.
 
 ## Technologies Used
 
